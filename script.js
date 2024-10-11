@@ -27,17 +27,17 @@ function checkGuess() {
 const products = [
   {
     name: "Short Hair #468",
-    image: "https://i.pinimg.com/originals/18/cd/cb/18cdcbc6dd1b566b88d0feb178b81683.png",
+    image: "lps_cat.png",
     description: "One of the most popular cats brought to you by LPS! Now in restock!"
   },
   {
     name: "Deer #634",
-    image: "https://i.ebayimg.com/images/g/REoAAOSwboBmxaRd/s-l400.jpg",
+    image: "lps_deer.jpg",
     description: "A beloved classic from the early 2000's, you asked for it, we listened! Our adorablest Little Pet Shop deer makes a comeback!"
   },
   {
     name: "Collie #363",
-    image: "https://i.pinimg.com/564x/3e/0e/e8/3e0ee8afbdb4865897cfaa695cdbc9c3.jpg",
+    image: "lps_dog.jpg",
     description: "Simple but cute! This Littlest Pet Shop dog is the perfect addition to any collection."
   }
 ];
