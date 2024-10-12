@@ -24,6 +24,9 @@ function checkGuess() {
 }
 
 //products
+//product 1 is sourced here: https://i.pinimg.com/originals/18/cd/cb/18cdcbc6dd1b566b88d0feb178b81683.png
+//product 2 is sourced here: https://i.ebayimg.com/images/g/REoAAOSwboBmxaRd/s-l400.jpg
+//product 3 is sourced here: https://i.pinimg.com/564x/3e/0e/e8/3e0ee8afbdb4865897cfaa695cdbc9c3.jpg
 const products = [
   {
     name: "Short Hair #468",
